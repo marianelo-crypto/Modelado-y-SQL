@@ -1,9 +1,9 @@
 # Modelado-y-SQL
 Cuarta práctica de mi Bootcamp de Desarrollo Web en Keepcoding.
 
-Práctica de Modelado y SQL
+##Práctica de Modelado y SQL
 
-Introducción
+##Introducción
 
 La práctica consistirá en dar solución al enunciado de la práctica (siguiente punto) mediante la creación del modelo Entidad Relación normalizado y un fichero con los comandos DDL para la creación del modelo diseñado así como los comandos DML para cargar las tablas.
 
@@ -11,7 +11,7 @@ Es obligatorio que el script sea 100% autónomo, de tal forma que solo haya que 
 
 En resumen, habrá que entregar un archivo hecho en https://app.diagrams.net/ con el modelo Entidad/Relación y otro con el script SQL.
 
-Enunciado
+##Enunciado
 
 En KeepCoding queremos gestionar la flota de vehículos de empresa, controlando los modelos de los coches, las marcas y el grupo empresarial de la marca (por ejemplo: VW SEAT, Audi etc. pertenecen al grupo VAN)
 
@@ -19,7 +19,7 @@ De los coches también necesitamos saber el color del coche, su matrícula, el n
 
 A demás queremos controlar de cada coche las revisiones que se ha pasado al coche sabiendo los Kms que tenía en el momento de la revisión, la fecha de la revisión y el importe de la revisión.
 
-Aparte del script, habrá que entregar una consulta SQL para sacar el siguiente listado de coches activos que hay en KeepCoding:
+##Aparte del script, habrá que entregar una consulta SQL para sacar el siguiente listado de coches activos que hay en KeepCoding:
 
     • Nombre modelo, marca y grupo de coches (los nombre de todos)
     • Fecha de compra
